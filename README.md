@@ -1,4 +1,4 @@
-## Hi there, I am Shashank 👋 lol
+## Hi there, I am Shashank 👋
 
 <!--
 **shashankcornell/shashankcornell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
